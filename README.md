@@ -1,6 +1,7 @@
 ### Hello there, I'm Matheus de Oliveira Teixeira. Welcome to my GitHub profile!
-- 😁 My pronouns are he/him
-- 🖥 Currently I'm studying computer science at Universidade Tecnológica Federal do Paraná (UTFPR)
+- 🌍 I'm from Paraná, Brazil
+- 🖥 I'm studying computer science at Universidade Tecnológica Federal do Paraná (UTFPR)
+- 📕 Creating my portfolio around here
 
 ##
 
