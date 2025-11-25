@@ -5,16 +5,6 @@
 
 ##
 
-### My status
-<a href="https://github.com/MatheusOliveiraT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveiraT&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/MatheusOliveiraT">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusOliveiraT&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-
-##
-
 ### Working with
 [![My Skills](https://skillicons.dev/icons?i=py,django,ts,angular,html,css,bootstrap,dart,flutter,c,cpp,mysql&perline=6)](https://skillicons.dev)
 
